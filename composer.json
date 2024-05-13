@@ -1,0 +1,19 @@
+{
+    "name": "milenatf/microservices-common",
+    "description": "Packages Files Utils Microservices Course",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Milena Tavares",
+            "email": "milena.devweb@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Milenatf\\MicroservicesCommon\\": "src"
+        }
+    }
+}
